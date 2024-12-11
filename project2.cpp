@@ -39,7 +39,7 @@ void cat();
 int main() {
     char a[100];
 
-    printf("Nuzhat's Terminal\n\n");
+    printf("Provat's Terminal\n\n");
 
     dt();
     printf("Welcome To Nuzhat's Terminal\n");
