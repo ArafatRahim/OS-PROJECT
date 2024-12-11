@@ -42,7 +42,7 @@ int main() {
     printf("Provat's Terminal\n\n");
 
     dt();
-    printf("Welcome To Nuzhat's Terminal\n");
+    printf("Welcome To Provat's Terminal\n");
     printf("Type \"help\" for more things!\n\n");
 
     while (1) {
